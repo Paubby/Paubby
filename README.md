@@ -23,9 +23,9 @@ y los voy subiendo aquí.
   <img src="https://img.shields.io/badge/Ionic-1F3A68?style=for-the-badge&logo=ionic&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-1F3A68?style=for-the-badge&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/Java-1F3A68?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-1F3A68?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-1F3A68?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/WordPress-1F3A68?style=for-the-badge&logo=wordpress&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-1F3A68?style=for-the-badge&logo=docker&logoColor=white">
+  <!-- <img src="https://img.shields.io/badge/Docker-1F3A68?style=for-the-badge&logo=docker&logoColor=white"> -->
   <img src="https://img.shields.io/badge/Git-1F3A68?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-1F3A68?style=for-the-badge&logo=linux&logoColor=white">
 </p>
