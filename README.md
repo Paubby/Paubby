@@ -6,7 +6,7 @@
 <p align="center">📍 Mallorca · Busco prácticas en desarrollo web</p>
 
 <p align="center">
-  <a href="mailto:pbestardbibiloni@gmail.com"><img src="https://img.shields.io/badge/Email-1F3A68?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://mail.google.com/mail/?view=cm&to=pbestardbibiloni@gmail.com&su=Contacto%20desde%20GitHub"><img src="https://img.shields.io/badge/Email-1F3A68?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
